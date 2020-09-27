@@ -231,7 +231,8 @@
                 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.18362.0\\ucrt",
                 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.18362.0\\shared",
                 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.18362.0\\um",
-                "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.18362.0\\winrt"
+                "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.18362.0\\winrt",
+                "D:\\1 Unreal Engine\\UnrealPractice\\BuildingEscape\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\BuildingEscape"
             ],
             "intelliSenseMode": "msvc-x64",
             "defines": [
